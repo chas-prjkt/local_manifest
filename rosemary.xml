@@ -7,7 +7,7 @@
 
    <!-- Trees -->
    <project path="device/redmi/rosemary" name="android_device_redmi_rosemary" remote="chas" revision="11.0" clone-depth="1"/>
-   <project path="kernel/redmi/rosemary" name="android_kernel_redmi_rosemary" remote="chas" revision="lineage-20" clone-depth="1"/>
+   <project path="kernel/xiaomi/rosemary" name="android_kernel_xiaomi_rosemary" remote="chas" revision="eleven" clone-depth="1"/>
    <project path="vendor/redmi/rosemary" name="android_vendor_redmi_rosemary" remote="chas" revision="eleven" clone-depth="1"/>
    
    <!-- Extras -->
